@@ -1,0 +1,19 @@
+body 
+{
+
+	background-color: orange;
+}
+
+h1 
+{
+	color: black;
+	text-align: center;
+	font-family: "Helvetica", serif, bold;
+}
+
+p
+{
+	color: purple;
+	text-align: center;
+	font-family: "Helvetica", serif, bold;
+}
